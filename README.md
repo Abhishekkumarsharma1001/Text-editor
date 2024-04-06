@@ -16,8 +16,8 @@ This Text Editor is a simple yet effective tool designed to facilitate efficient
 **Contributing:**
 - Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
-**Credits:**
-- This Text Editor was developed by [Your Name].
+**Credit:**
+- This Text Editor was developed by 😎[Abhishek Kumar Sharma](https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213).
 
 **License:**
 - This project is licensed under the [License Name]. See the LICENSE file for details.
@@ -25,5 +25,3 @@ This Text Editor is a simple yet effective tool designed to facilitate efficient
 **Contact:**
 - For any inquiries or feedback, please contact [Your Email Address].
 
-**Acknowledgments:**
-- Special thanks to [Optional: Any individuals, libraries, or resources that contributed to the development of the Text Editor].
