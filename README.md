@@ -23,5 +23,5 @@ This Text Editor is a simple yet effective tool designed to facilitate efficient
 - This project is licensed under the [MIT License](LICENSE).. See the LICENSE file for details.
 
 **Contact:**
-- For any inquiries or feedback, please contact [Your Email Address].
+- For any inquiries or feedback, please contact [abhikumarsharma146@gmail.com].
 
