@@ -20,7 +20,7 @@ This Text Editor is a simple yet effective tool designed to facilitate efficient
 - This Text Editor was developed by 😎[Abhishek Kumar Sharma](https://www.linkedin.com/in/abhishek-kumar-sharma-3b2bb0213).
 
 **License:**
-- This project is licensed under the [License Name]. See the LICENSE file for details.
+- This project is licensed under the [MIT License]. See the LICENSE file for details.
 
 **Contact:**
 - For any inquiries or feedback, please contact [Your Email Address].
