@@ -13,6 +13,9 @@ This Text Editor is a simple yet effective tool designed to facilitate efficient
 - **CSS:** Utilized for styling the appearance of the editor interface.
 - **JavaScript:** Implemented for interactivity and functionality, such as text manipulation and formatting.
 
+  #### Screenshots:
+![Screenshot 1](https://github.com/Abhishekkumarsharma1001/Text-editor/blob/main/preview%20(1).png)
+
 **Contributing:**
 - Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
