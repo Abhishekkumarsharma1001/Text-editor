@@ -7,7 +7,7 @@ This Text Editor is a simple yet effective tool designed to facilitate efficient
 2. Begin typing or paste your text into the editor.
 3. Use the provided toolbar for formatting options.
 4. Save your work locally for future access if needed.
-
+ 
 **Technologies Used:**
 - **HTML:** Used for structuring the layout and content of the editor.
 - **CSS:** Utilized for styling the appearance of the editor interface.
