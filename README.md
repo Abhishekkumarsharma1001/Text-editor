@@ -2,14 +2,6 @@
 **Description:**
 This Text Editor is a simple yet effective tool designed to facilitate efficient text editing tasks. It's built using HTML, CSS, and JavaScript, offering a straightforward interface for users to compose, edit, and format text conveniently.
 
-**Features:**
-1. **Basic Text Editing:** Users can type, delete, and manipulate text seamlessly within the editor.
-2. **Formatting Options:** Includes essential formatting features such as bold, italic, underline, and text alignment (left, center, right).
-3. **Font Selection:** Users can choose from a selection of fonts to personalize their text.
-4. **Color Customization:** Offers color customization for text and background to enhance readability and aesthetics.
-5. **Save and Load:** Provides the functionality to save edited text locally and load previously saved text for continued editing.
-6. **Responsive Design:** Designed with responsiveness in mind, ensuring usability across various devices and screen sizes.
-
 **Usage:**
 1. Open the HTML file in any web browser.
 2. Begin typing or paste your text into the editor.
