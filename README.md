@@ -16,6 +16,10 @@ This Text Editor is a simple yet effective tool designed to facilitate efficient
   #### Screenshots:
 ![Screenshot 1](https://github.com/Abhishekkumarsharma1001/Text-editor/blob/main/preview%20(1).png)
 
+#### Demo:
+[Link to Live Demo](https://6611981ca1c26a195ca232a2--super-churros-bd7a4d.netlify.app/)
+
+
 **Contributing:**
 - Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
