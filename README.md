@@ -1,4 +1,4 @@
-# Text-editor 
+# Text-editor  
 **Description:**
 This Text Editor is a simple yet effective tool designed to facilitate efficient text editing tasks. It's built using HTML, CSS, and JavaScript, offering a straightforward interface for users to compose, edit, and format text conveniently.
 
